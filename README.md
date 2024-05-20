@@ -2,6 +2,7 @@
 
 ![Pinheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=devLucenaPinheiro&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLucenaPinheiro&layout=donut&theme=tokyonight)](https://github.com/devLucenaPinheiro/github-readme-stats)
 ## Tecnologias que utilizo
 
 <div style="display: inline_block">
