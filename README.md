@@ -1,6 +1,6 @@
 ### Olá! me chamo Vinícius Pinheiro ✋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devLucenaPinheiro&theme=tokyonight)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devLucenaPinheiro&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLucenaPinheiro&layout=donut&theme=tokyonight)](https://github.com/devLucenaPinheiro/github-readme-stats)
 
