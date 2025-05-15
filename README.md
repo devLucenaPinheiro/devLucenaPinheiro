@@ -1,6 +1,7 @@
 ### Olá! me chamo Vinícius Pinheiro ✋
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=devLucenaPinheiro&theme=tokyonight)](https://git.io/streak-stats)<img alt="my languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucenaPinheiro&layout=donut&theme=tokyonight&(https://github.com/devLucenaPinheiro/github-readme-stats">
+ <br>
 
 ## Tecnologias que utilizo
 
@@ -10,7 +11,6 @@
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img align="center" alt="sass_css" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
-<br>
 
 ## Aprendendo no momento
 <div style="display: inline_block">
