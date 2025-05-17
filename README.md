@@ -1,7 +1,7 @@
 ### Olá! me chamo Vinícius Pinheiro ✋
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=devLucenaPinheiro&theme=tokyonight)](https://git.io/streak-stats)<img alt="my languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucenaPinheiro&layout=donut&theme=tokyonight&(https://github.com/devLucenaPinheiro/github-readme-stats">
- <br>
+<br>
 
 ## Tecnologias que utilizo
 
