@@ -1,8 +1,5 @@
 ### Olá! me chamo Vinícius Pinheiro ✋
 
-<img alt="my languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucenaPinheiro&layout=donut&theme=tokyonight&(https://github.com/devLucenaPinheiro/github-readme-stats">
-<br>
-
 ## Tecnologias que utilizo
 
 <div style="display: inline_block">
